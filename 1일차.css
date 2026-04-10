@@ -1,0 +1,22 @@
+.ㅇㅇㅇㅇㅇㅇ{
+    color: rgba(64, 190, 33, 0.651);
+}
+
+#ㅁㅁㅁㅁㅁ{
+    font-size: 100px;  /* id 하는법 */
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+body div h3 {
+    color: aqua;
+    font-size: 50px;
+}
+
+
+
